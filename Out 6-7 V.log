@@ -1,0 +1,26 @@
+Circuit: * D:\Lapi ITB - MSIB\LT spice smart adaptor\Out 6-7 V.asc
+
+.OP point found by inspection.
+Heightened Def Con from 1.06721 to 1.06721
+Heightened Def Con from 2.61721 to 2.61721
+Heightened Def Con from 6.59721 to 6.59721
+Heightened Def Con from 7.21721 to 7.21721
+Heightened Def Con from 9.03721 to 9.03721
+
+Date: Fri Oct 06 14:15:08 2023
+Total elapsed time: 51.623 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3684824
+traniter = 3684824
+tranpoints = 1698003
+accept = 1135656
+rejected = 562352
+matrix size = 33
+fillins = 39
+solver = Normal
+Matrix Compiler1: 3.97 KB object code size  1.0/0.6/[0.4]
+Matrix Compiler2: 3.43 KB object code size  0.4/0.6/[0.3]
+
